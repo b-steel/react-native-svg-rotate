@@ -1,4 +1,4 @@
-import { Button, StyleSheet, View } from "react-native";
+import { Button, View } from "react-native";
 import { G, Rect, Svg } from "react-native-svg";
 
 export default function App() {
@@ -55,12 +55,3 @@ export default function App() {
     </View>
   );
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: "#fff",
-    alignItems: "center",
-    justifyContent: "center",
-  },
-});
