@@ -33,7 +33,7 @@ export default function App() {
             onPress={() => console.log("svg pressed")}
           >
             <G
-              rotation={0}
+              rotation={-90}
               originX="50"
               originY="50"
               onPress={() => console.log("g pressed")}
