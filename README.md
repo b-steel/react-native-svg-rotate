@@ -1,3 +1,6 @@
+## Issue
+[link](https://github.com/software-mansion/react-native-svg/issues/2145)
+
 ## Setup
 
 If you run `npm run start` and then try clicking on the button, looking at the console you can see that the `<Rect>` element is catching the press event.
